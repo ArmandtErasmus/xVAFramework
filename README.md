@@ -33,7 +33,7 @@ To launch the interactive Streamlit dashboard:
 streamlit run streamlit_xva_dashboard.py
 ```
 
-The dashboard will open in your default web browser, typically at `http://localhost:8501`.
+The dashboard will open in your default web browser.
 
 ### Features of the Dashboard
 
