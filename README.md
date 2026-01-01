@@ -1,6 +1,6 @@
 # Advanced XVA Framework: FVA, MVA, KVA for Central Clearing
 
-A comprehensive, industry-grade XVA (eXposure Valuation Adjustment) framework implementing Funding Valuation Adjustment (FVA), Margin Valuation Adjustment (MVA), and Capital Valuation Adjustment (KVA) calculations for centrally cleared derivative portfolios.
+A comprehensive, industry-grade XVA (X-Valuation Adjustment) framework implementing Funding Valuation Adjustment (FVA), Margin Valuation Adjustment (MVA), and Capital Valuation Adjustment (KVA) calculations for centrally cleared derivative portfolios.
 
 ![xVa](https://github.com/ArmandtErasmus/xVAFramework/blob/main/xvaEngine.png)
 
